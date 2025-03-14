@@ -1,4 +1,4 @@
-## Hi there 👋
+## Polytechnic college
 
 <!--
 **pes508/pes508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
